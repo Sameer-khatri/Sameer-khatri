@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Sameer 👋
 
-<!--
-**Sameer-khatri/Sameer-khatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Build
+- AI-powered personal development systems
+- Industrial automation tools
+- Python backends and APIs
 
-Here are some ideas to get you started:
+## Current Projects
+- **ASCEND** — Personal AI development system with 6-pillar tracking
+- **PLC Automation System** — Industrial machine monitoring for real client
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python | Flask | Groq API | PostgreSQL | SQL | HTML/CSS
+
+## Currently Learning
+- DSA — solving LeetCode problems daily
+- Machine Learning fundamentals
+- Building toward 15 LPA placement
+
+## Connect
+📧 [sameer.k.khatri06@gmail.com]
