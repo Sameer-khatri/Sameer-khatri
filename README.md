@@ -17,5 +17,10 @@ Python | Flask | Groq API | PostgreSQL | SQL | HTML/CSS
 - Machine Learning fundamentals
 - Building toward 15 LPA placement
 
+## Stats
+- LeetCode problems solved: 3 and counting
+- Projects deployed: 2
+- Currently: 2nd year CSE, SRM University Sonipat
+
 ## Connect
 📧 [sameer.k.khatri06@gmail.com]
