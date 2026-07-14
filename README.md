@@ -22,7 +22,9 @@ I build AI-powered systems and tools that solve real problems — from personal 
 
 ### 🛠️ WEAPONRY
 
-`Python` `JavaScript` `TypeScript` `Node.js` `C#` `PostgreSQL` `Flask` `React` `Nmap` `Wireshark` `Burp Suite`
+![Skills](https://skillicons.dev/icons?i=python,js,ts,nodejs,cs,postgres,flask,react)
+
+`Nmap` `Wireshark` `Burp Suite`
 
 ---
 
