@@ -13,7 +13,7 @@ I build AI-powered systems and tools that solve real problems — from personal 
 
 | Project | What it does | Stack | Status |
 |---|---|---|---|
-| **[Vantage](#)** | AI-powered Nmap/Wireshark/Burp analysis toolkit | Node, Express, Groq API | 🟢 Live |
+| **[Vantage](https://github.com/Sameer-khatri/vantage)** | AI-powered Nmap/Wireshark/Burp analysis toolkit | Node, Express, Groq API | 🟢 Live |
 | **[Ignite](https://boss-s-fire.autobots9876.workers.dev/home)** | Personal life-ops system — habit tracking, gym plans, discipline streaks | React, TS, Cloudflare Workers | 🟢 Live |
 | **ASCEND** | Personal AI development system, 6-pillar self-tracking | Python, Flask, Groq API | 🟡 Active |
 | **PLC Automation System** | Industrial machine monitoring, built for a real client | C#, industrial protocols | 🟢 Deployed |
