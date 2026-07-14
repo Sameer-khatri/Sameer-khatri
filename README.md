@@ -1,26 +1,49 @@
-# Hey, I'm Sameer 👋
+## > root@sameer:~$ whoami
 
-## What I Build
-- AI-powered personal development systems
-- Industrial automation tools
-- Python backends and APIs
+# Sameer Khatri
+`STATUS: ONLINE` &nbsp; `FOCUS: AI + SECURITY` &nbsp; `SRM University Sonipat — CSE, Cybersecurity`
 
-## Current Projects
-- **ASCEND** — Personal AI development system with 6-pillar tracking
-- **PLC Automation System** — Industrial machine monitoring for real client
+> "Code is the architecture of understanding."
 
-## Tech Stack
-Python | Flask | Groq API | PostgreSQL | SQL | HTML/CSS
+I build AI-powered systems and tools that solve real problems — from personal automation to security tooling. Also deep in hands-on penetration testing (Nmap, Burp, Wireshark) and working toward a 15 LPA placement.
 
-## Currently Learning
-- DSA — solving LeetCode problems daily
-- Machine Learning fundamentals
-- Building toward 15 LPA placement
+---
 
-## Stats
-- LeetCode problems solved: 3 and counting
-- Projects deployed: 2
-- Currently: 2nd year CSE, SRM University Sonipat
+### 🎯 ACTIVE_PROJECTS
 
-## Connect
-📧 [sameer.k.khatri06@gmail.com]
+| Project | What it does | Stack | Status |
+|---|---|---|---|
+| **[Vantage](#)** | AI-powered Nmap/Wireshark/Burp analysis toolkit | Node, Express, Groq API | 🟢 Live |
+| **[Ignite](https://boss-s-fire.autobots9876.workers.dev/home)** | Personal life-ops system — habit tracking, gym plans, discipline streaks | React, TS, Cloudflare Workers | 🟢 Live |
+| **ASCEND** | Personal AI development system, 6-pillar self-tracking | Python, Flask, Groq API | 🟡 Active |
+| **PLC Automation System** | Industrial machine monitoring, built for a real client | C#, industrial protocols | 🟢 Deployed |
+
+---
+
+### 🛠️ WEAPONRY
+
+`Python` `JavaScript` `TypeScript` `Node.js` `C#` `PostgreSQL` `Flask` `React` `Nmap` `Wireshark` `Burp Suite`
+
+---
+
+### 📡 CURRENTLY_UNLOCKING
+
+- DSA — daily grind, self-tracked
+- Cybersecurity fundamentals — real exploitation practice, hands-on
+- AI orchestration — building tools that reason with LLMs, not just wrap them
+
+---
+
+### 📊 SIGNAL_LOG
+
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sameer-khatri&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer-khatri&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sameer-khatri&theme=tokyonight)
+
+---
+
+### 🔗 CONNECT
+
+📧 sameer.k.khatri06@gmail.com &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/sameer-khatri-41118939b/) &nbsp; | &nbsp; [GitHub](https://github.com/Sameer-khatri)
