@@ -5,7 +5,7 @@
 
 > "Code is the architecture of understanding."
 
-I build AI-powered systems and tools that solve real problems — from personal automation to security tooling. Also deep in hands-on penetration testing (Nmap, Burp, Wireshark) and working toward a 15 LPA placement.
+I build AI-powered systems and tools that solve real problems — from personal automation to security tooling. Also deep in hands-on penetration testing (Nmap, Burp, Wireshark)
 
 ---
 
